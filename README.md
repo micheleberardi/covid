@@ -24,20 +24,22 @@ get
 ### RESPONSE
 
 Getting COVID data by Michelone 
+
 There were 2062 confirmed COVID cases in usa on 2020-08-20
+
 This is 10752.6316% increase over the last week. Travel is not recommended in usa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/micheleberardi/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/micheleberardi/covid/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/micheleberardi/Best-README-Template.svg?style=flat-square
 [forks-url]: https://github.com/micheleberardi/covid/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/micheleberardi/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/micheleberardi/covid/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/micheleberardi/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/micheleberardi/covid/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/micheleberardi/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/micheleberardi/covid/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/micheleberardi
